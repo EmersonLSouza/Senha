@@ -1,4 +1,4 @@
-﻿const string senhacorreta = "1234abcd";
+﻿const string senhacorreta = "programacao";
 string senha, permissaoacesso;
 
 Console.WriteLine("---Senha---\n");
